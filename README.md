@@ -1,2 +1,0 @@
-# Nanodegree
-Intro to Programming
